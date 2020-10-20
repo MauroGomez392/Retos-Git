@@ -13,3 +13,5 @@ console.log (miBiblio.getManager());
 console.log (miBiblio.getToString());
 console.log (miBiblio.getNumberOfBooks());
 console.log (miBiblio.getFindByAuthor("Jaime Ross"));
+
+let libro5 : Book = new Book ("La vitta e bella", 223, "2344433 - BC23333", "Roberto Benigni", "Now Editions");
